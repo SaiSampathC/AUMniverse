@@ -1,6 +1,6 @@
 # 🌌 AUMniverse
 
-**A Cosmic Journey through ** — told as an interactive, spiritual universe.  
+**A Cosmic Journey through Sanatan** — told as an interactive, spiritual universe.  
 Built with storytelling, code, and cosmic design.
 
 ---
