@@ -45,5 +45,3 @@ AUMniverse is inspired by the **interstellar beauty of Sanatana Dharma**, cyberp
 
 ---
 
-## 📂 Folder Structure (Coming Soon)
-
