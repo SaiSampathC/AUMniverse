@@ -7,7 +7,7 @@ Built with storytelling, code, and cosmic design.
 
 ## 🚀 What is AUMniverse?
 
-AUMniverse is not just a website — it's a **galactic experience** that explores the ancient wisdom of Sanatana Dharma (Vedas, Upanishads, Mahabharata, Ramayana, Bhagavad Gita) through a futuristic, cosmic lens.
+AUMniverse is not just a website — it's a **galactic experience** that explores the ancient wisdom of Sanatan (Vedas, Upanishads, Mahabharata, Ramayana, Bhagavad Gita) through a futuristic, cosmic lens.
 
 Each section is a **celestial body** — planets, stars, black holes — revealing timeless knowledge through immersive design and spiritual storytelling.
 
